@@ -40,11 +40,11 @@ p {
     background-blend-mode: darken;
 }
 
-{
+/*{
     content-visibility: auto;
     contain-intrinsic-size: 1px 5000px;
   }
-
+*/
   .fluid {
       font-size: clam(1.5rem,8vw -2rem, 3rem);
   }
